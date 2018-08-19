@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v21/notification_action.xml"
+    }
+]

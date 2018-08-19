@@ -1,0 +1,84 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+    }
+}
+
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'orb-example'
+
+    publishedGroupId = 'com.example.orb'
+    libraryName = 'Sdk'
+    artifact = 'sdk'
+
+    libraryDescription = 'A wrapper library for Orbita APIs'
+
+    siteUrl = 'https://bitbucket.org/orbitainc/orbitaapp-android'
+    gitUrl = 'https://sathish_athikari@bitbucket.org/orbitainc/orbitaapp-android.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'sathishathikari'
+    developerName = 'Sathish Athikari'
+    developerEmail = 'sathish.athikari@ameexusa.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.fasterxml.jackson.core:jackson-core:2.0.2'
+    compile 'org.codehaus.jackson:jackson-mapper-asl:1.9.0'
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    compile 'com.squareup.okhttp:okhttp:2.7.2'
+    compile 'io.jsonwebtoken:jjwt:0.6.0'
+    compile project(':AlexaAndroid')
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName libraryVersion
+        multiDexEnabled true
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/ASL2.0'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+task copyLibs(type: Copy) {
+    from configurations.compile
+    into 'libs'
+}
+
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'

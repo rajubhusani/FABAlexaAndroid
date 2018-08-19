@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SoundLevels">
+        <attr name="maxLevelRadius" format="dimension|reference" />
+        <attr name="minLevelRadius" format="dimension|reference" />
+        <attr name="primaryColor" format="color" />
+    </declare-styleable>
+
+</resources>

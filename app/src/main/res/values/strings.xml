@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FABAlexa Demo</string>
+    <string name="alexa_product_id">fab_test</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="action_switch">Switch</string>
+
+    <string name="action_allow">Allow</string>
+    <string name="action_retry">Retry</string>
+
+    <string name="rationale_record_audio_permission_text">To record audio, give Alexa voice access to Microphone</string>
+    <string name="error_no_image">Can\'t load image</string>
+
+    <string name="amazon_alexa_text">amazon alexa</string>
+    <string name="login_with_amazon_text">Your device includes access to Alexa.\nConnect your amazon account to access personalized features.</string>
+    <string name="alexa_audio_recorder_hint_text">Tap &amp; Speak</string>
+
+</resources>

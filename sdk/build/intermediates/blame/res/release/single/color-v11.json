@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

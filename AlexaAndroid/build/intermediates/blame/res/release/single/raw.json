@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/release/raw/audio_end.wav",
+        "source": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/src/main/res/raw/audio_end.wav"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/release/raw/audio_initiate.wav",
+        "source": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/src/main/res/raw/audio_initiate.wav"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/release/raw/error.wav",
+        "source": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/speechutils-master/build/intermediates/bundles/default/res/raw/error.wav"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/release/raw/explore_end.ogg",
+        "source": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/speechutils-master/build/intermediates/bundles/default/res/raw/explore_end.ogg"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/res/merged/release/raw/explore_begin.ogg",
+        "source": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/speechutils-master/build/intermediates/bundles/default/res/raw/explore_begin.ogg"
+    }
+]

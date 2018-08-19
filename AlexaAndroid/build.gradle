@@ -1,0 +1,82 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+    }
+}
+
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'orb-example'
+
+    publishedGroupId = 'com.example.orb'
+    libraryName = 'AlexaAndroid'
+    artifact = 'AlexaAndroid'
+
+    libraryDescription = 'A wrapper library for Alexa Voice Services'
+
+    siteUrl = 'https://bitbucket.org/orbitainc/orbitaapp-android'
+    gitUrl = 'https://sathish_athikari@bitbucket.org/orbitainc/orbitaapp-android.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'sathishathikari'
+    developerName = 'Sathish Athikari'
+    developerEmail = 'sathish.athikari@ameexusa.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.intellij:annotations:+@jar'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'commons-io:commons-io:2.5'
+    compile 'com.squareup.okhttp3:okhttp:3.6.0'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'org.apache.commons:commons-lang3:3.0'
+    compile 'com.google.android.gms:play-services-base:' + rootProject.ext.playServicesVersion
+    compile 'com.android.support:appcompat-v7:' + rootProject.ext.supportVersion
+    compile project(':speechutils-master')
+    testCompile 'junit:junit:4.12'
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionName libraryVersion
+    }
+
+
+    lintOptions {
+        abortOnError false
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+    }
+}
+
+tasks.withType(Javadoc) {
+    options.addStringOption('Xdoclint:none', '-quiet')
+    options.addStringOption('encoding', 'UTF-8')
+    options.addStringOption('charSet', 'UTF-8')
+}
+
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'

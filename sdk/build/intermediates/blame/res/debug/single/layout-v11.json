@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

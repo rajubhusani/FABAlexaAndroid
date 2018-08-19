@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--alexa card image-->
+    <dimen name="alexa_card_image_height">373dp</dimen>
+
+</resources>

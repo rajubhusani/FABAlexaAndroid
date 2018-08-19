@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/speechutils-master/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e7623557f30094f6d24520b8b8247add6664b96">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_272985171f5afb376b07bab7812e031d5ca93fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.0/74828722eb1127057a9522dd6a7a8e208e82b3e7/jackson-mapper-asl-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="74828722eb1127057a9522dd6a7a8e208e82b3e7">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.0_49a637a63263b0f9c0c11f4246c347957c35c57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/d5d4f3891c380f51c10167abd54d903c148946ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_f079956f4dc694396074d4d4ce072487305a47d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_8e1cc1153b02d4c29f446388159775a6cdb4f463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/72333cc97ea4e386ce3aa5c6914359b3b59c4aea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_210303301c0d1868d82631d140c50ae8c528899e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_b5d59634c4918cb00f6ccc8971ec9ae596697a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.0_ed983c9f6d6cb12345be72021877f346abd2aed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.0/8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0/commons-lang3-3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0_3d896f352057cad2b5304e5eb65cccc1c5913d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/bundles/default/libs/login-with-amazon-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df80b8fcb7700348eb1e636c4ce6e0b0667ca008">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/login-with-amazon-sdk_fbe47e2dd40566fd6d36bb1033931c7027f18197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/cfeca9b76357cfc72816ca476aadcfe05c6173b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_02f1672d47b4b14b877d7b60de505516877e88b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/bc87d4c3370a286e37ac7fbfa7e242c497811753/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_da8337cf31db5c181361197903827cb40e34d686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/9ee8b80fce9a7f56287551149d7a9d5f8bc3e01f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_051a05cec40784bb9bfd7547783348f0e1c535a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.6.0/3c8a7897b9ca31c83d3dd364be7f75ce5cd417d7/jjwt-0.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c8a7897b9ca31c83d3dd364be7f75ce5cd417d7">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/jjwt-0.6.0_13f8915622a8e9ab2165edaa0094e1d75f5dee4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/652c6aa2822736a5e947698805599afa1660a3d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_b2347db13eef23946ef0ddd132b4b54bd4ac438d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_bd4ddc687a8b386b1208aaa0bc207f7a5e616284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/sdk/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cd9107ae3df26610d58b6a812f40c7ec6b5192be">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_78f3929269cc65617d3154f519f3c84e0b23c787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.2/ceb72830d95c512b4b300a38f29febc85bdf6e4b/jackson-core-2.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/jackson-core-2.4.2_80a83d40cdfccb08cd371060b9b76f19d11457ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/c2393da47899da16ac0c1834fb5819e2a7237851/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_e572997ed6269b52c95beb0f7d0a15c81c1c095d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_bbf809220cb36e5528a86af2d79ae8e6d79df5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/okhttp-2.7.2_cc288512e1c4012fb59c6c1c7f3ab2ee4d6ffc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/83cc4e73ba6fe6b7d01ddeb40512d49fa1842500/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_0dec69f78798df567037eda93635a5f7c80bdf08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/53f50fc5ed7018b249ee71912eb4b1e8ba0e8237/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_20eeb0ca0ed2a51dc623a6809aaff5cedc529216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_df209b65fc270d9941df71f6b0cf7c8b587abc06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/2e100627869d9a300679cd0494ac6f8f00dbe6da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_b1058611db1ba9b13ea04d0e50cd1de07a87b7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/commons-io-2.5_68d5a3b30165674f0e63372fd1eab5fcb6e8c9ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/bundles/default/libs/commons-fileupload-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="27cfaf166296e196b02c676f36fe2b9bf6d77725">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/commons-fileupload-1.3.1_7fda6ae933ae8b9ccb4ca802aea58ed9a1b3a8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/c98c0d98b64f42f23da3dcba8ff2df31419ab285/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_31eb9342fb9f2e27ed40b25d9a8d0a1fb8f6b5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/AlexaAndroid/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b43d5f6d8fb29e4cc41eb1357e004c56a96cfc6">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_84b6729ba775a53f63975e3c82835ed72d6cf491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.0/194599ab3dd29b63b763e7635c8d7a63c830f058/jackson-core-asl-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="194599ab3dd29b63b763e7635c8d7a63c830f058">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.0_38773746b78f1287e53c96e55b6d8d3769588394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/d24375f51ee4c23a1419dbedf3b779c0d4e2de12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_345ccd6d900dd9fe72c4c20bf639aa7d01a64c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/gson-2.7_558023d4985c508fcf2407b871100418c9b11c77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/1057c76ceb809f6adf1d70926199642854be0096/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_52fb95aae5fa4283646b3b378ccf8c35d7fd6c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.intellij/annotations/12.0/bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539/annotations-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/annotations-12.0_2694871ef1424f2347f53cf52e4c106c6c5982a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.android/build-cache/8553c13bbbe2c37e0c8a70fe84290cd9f4eb96fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/classes_e334412b702adc0cb3ecd4678f025e7ffc815999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/okio-1.11.0_20c0f39a38ad60970fc008c23178eed8487fb33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fab/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.2/8e31266a272ad25ac4c089734d93e8d811652c1f/jackson-databind-2.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="/Users/fab/Desktop/Nagaraju/FABAlexaDemo/app/build/intermediates/pre-dexed/debug/jackson-databind-2.4.2_20d665d44e93bce5d77272c691c8ddc4d84cae68.jar" />
+    </item>
+
+</items>
